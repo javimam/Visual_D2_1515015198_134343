@@ -3,24 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package visual2;
+package modul3;
 
 /**
  *
- * @author Acer
+ * @author Al IMAM
  */
-public class Visual2 {
+public class Modul3 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        java.awt.EventQueue.invokeLater(new Runnable() {
-            public void run() {
-                new tugas().setVisible(true);
-            }
-        });
     }
     
 }
