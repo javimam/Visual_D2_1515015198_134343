@@ -574,7 +574,7 @@ public class layout extends javax.swing.JFrame {
         String sekolahh = sekolah.getSelectedItem().toString();
         String alamatt = alamat.getText();
         String kotaa = kota.getSelectedItem().toString();
-        new parsing2(namaa,nimm,kelamin,sekolahh,alamatt,transport,kotaa).setVisible(true);
+        new posttest2.parsing2(namaa,nimm,kelamin,sekolahh,alamatt,transport,kotaa).setVisible(true);
     }//GEN-LAST:event_simpanActionPerformed
 
     private void sekolahActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_sekolahActionPerformed
